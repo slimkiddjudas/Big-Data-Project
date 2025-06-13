@@ -145,7 +145,7 @@ BigData/
 - **Akademik Araştırma**: Terörizm çalışmaları ve çatışma analizi
 - **Politika Analizi**: Politika geliştirme için terörizm eğilimlerinin anlaşılması
 - **Güvenlik Planlaması**: Risk değerlendirmesi ve tehdit analizi
-- **Eğitim Amaçlı**: Sosyal bilimlerde makine öğrenimi uygulamalarını öğrenme
+- **Eğitim Amaçlı**: Makine öğrenimi uygulamalarını öğrenme
 
 ## 🙏 Teşekkürler
 
