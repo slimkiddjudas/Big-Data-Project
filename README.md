@@ -147,36 +147,6 @@ BigData/
 - **Güvenlik Planlaması**: Risk değerlendirmesi ve tehdit analizi
 - **Eğitim Amaçlı**: Sosyal bilimlerde makine öğrenimi uygulamalarını öğrenme
 
-## 🔮 Gelecekteki Geliştirmeler
-
-### Teknik İyileştirmeler
-- **Derin Öğrenme Modelleri**: Daha yüksek doğruluk için sinir ağları
-- **Özellik Mühendisliği**: Gelişmiş özellik oluşturma ve seçimi
-- **Gerçek Zamanlı Veri**: Güncel terörizm veri tabanları ile entegrasyon
-- **Coğrafi Modelleme**: Mekansal analiz ve haritalama yetenekleri
-
-### Analiz Genişletmeleri
-- **Duygu Analizi**: Sosyal medya ve haber içeriklerinin analizi
-- **Ağ Analizi**: Organizasyonel ilişki haritalama
-- **Zaman Serisi Tahmini**: Gelecekteki olay eğilimlerinin tahmini
-- **Çok Dilli Destek**: İngilizce dışı kaynakların analizi
-
-## 🤝 Katkı Sağlama
-
-Katkıda bulunmak isteyenler için:
-- Model iyileştirmeleri ve optimizasyonu
-- Ek görselleştirme teknikleri
-- Kod optimizasyonu ve dokümantasyon
-- Yeni analitik yaklaşımlar
-- Hata düzeltmeleri ve sorun giderme
-
-## 📞 İletişim & Destek
-
-Sorularınız, önerileriniz veya iş birliği fırsatları için:
-- **Proje Türü**: Akademik Araştırma Projesi
-- **Alan**: Terörizm Çalışmaları, Makine Öğrenimi, Veri Bilimi
-- **Eğitim Seviyesi**: Büyük Veri Analitiği
-
 ## 🙏 Teşekkürler
 
 - **START Consortium** for providing the Global Terrorism Database
